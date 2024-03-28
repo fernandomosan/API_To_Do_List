@@ -1,0 +1,263 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Fernando Moura\\Estudos\\Aplicativo Teste\\API_To_Do_List.Cliente\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61A55721-09BF-4A88-B27D-84763EEF84AA}|API_To_Do_List.Cliente\\API_To_Do_List.Cliente.csproj|c:\\fernando moura\\estudos\\aplicativo teste\\api_to_do_list.cliente\\api_to_do_list.cliente\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61A55721-09BF-4A88-B27D-84763EEF84AA}|API_To_Do_List.Cliente\\API_To_Do_List.Cliente.csproj|solutionrelative:api_to_do_list.cliente\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51C53A94-4E72-4021-B3C9-0199CBD5FBA7}|API_To_Do_List.Testes\\API_To_Do_List.Testes.csproj|c:\\fernando moura\\estudos\\aplicativo teste\\api_to_do_list.cliente\\api_to_do_list.testes\\cliente\\tarefavalidadoteste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51C53A94-4E72-4021-B3C9-0199CBD5FBA7}|API_To_Do_List.Testes\\API_To_Do_List.Testes.csproj|solutionrelative:api_to_do_list.testes\\cliente\\tarefavalidadoteste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61A55721-09BF-4A88-B27D-84763EEF84AA}|API_To_Do_List.Cliente\\API_To_Do_List.Cliente.csproj|c:\\fernando moura\\estudos\\aplicativo teste\\api_to_do_list.cliente\\api_to_do_list.cliente\\controllers\\tarefacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61A55721-09BF-4A88-B27D-84763EEF84AA}|API_To_Do_List.Cliente\\API_To_Do_List.Cliente.csproj|solutionrelative:api_to_do_list.cliente\\controllers\\tarefacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4399994-9EF3-473A-ACA2-454C2FED70F1}|API_To_Do_List.Service\\API_To_Do_List.Service.csproj|c:\\fernando moura\\estudos\\aplicativo teste\\api_to_do_list.cliente\\api_to_do_list.service\\servico\\repositorio\\tarefaservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4399994-9EF3-473A-ACA2-454C2FED70F1}|API_To_Do_List.Service\\API_To_Do_List.Service.csproj|solutionrelative:api_to_do_list.service\\servico\\repositorio\\tarefaservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61A55721-09BF-4A88-B27D-84763EEF84AA}|API_To_Do_List.Cliente\\API_To_Do_List.Cliente.csproj|c:\\fernando moura\\estudos\\aplicativo teste\\api_to_do_list.cliente\\api_to_do_list.cliente\\validadores\\tarefavalidador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61A55721-09BF-4A88-B27D-84763EEF84AA}|API_To_Do_List.Cliente\\API_To_Do_List.Cliente.csproj|solutionrelative:api_to_do_list.cliente\\validadores\\tarefavalidador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4A3CEB0-8790-44A8-91B0-0C40BECE1BDB}|API_To_Do_List.Domain\\API_To_Do_List.Domain.csproj|c:\\fernando moura\\estudos\\aplicativo teste\\api_to_do_list.cliente\\api_to_do_list.domain\\enums\\statustarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4A3CEB0-8790-44A8-91B0-0C40BECE1BDB}|API_To_Do_List.Domain\\API_To_Do_List.Domain.csproj|solutionrelative:api_to_do_list.domain\\enums\\statustarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4399994-9EF3-473A-ACA2-454C2FED70F1}|API_To_Do_List.Service\\API_To_Do_List.Service.csproj|c:\\fernando moura\\estudos\\aplicativo teste\\api_to_do_list.cliente\\api_to_do_list.service\\servico\\interfaca\\itarefaservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4399994-9EF3-473A-ACA2-454C2FED70F1}|API_To_Do_List.Service\\API_To_Do_List.Service.csproj|solutionrelative:api_to_do_list.service\\servico\\interfaca\\itarefaservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96E9DFE5-E770-4C1B-8CE5-63C6E3712315}|API_To_Do_List.Infra\\API_To_Do_List.Infra.csproj|c:\\fernando moura\\estudos\\aplicativo teste\\api_to_do_list.cliente\\api_to_do_list.infra\\repositorio\\tarefarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96E9DFE5-E770-4C1B-8CE5-63C6E3712315}|API_To_Do_List.Infra\\API_To_Do_List.Infra.csproj|solutionrelative:api_to_do_list.infra\\repositorio\\tarefarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96E9DFE5-E770-4C1B-8CE5-63C6E3712315}|API_To_Do_List.Infra\\API_To_Do_List.Infra.csproj|c:\\fernando moura\\estudos\\aplicativo teste\\api_to_do_list.cliente\\api_to_do_list.infra\\interfaces\\itarefarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96E9DFE5-E770-4C1B-8CE5-63C6E3712315}|API_To_Do_List.Infra\\API_To_Do_List.Infra.csproj|solutionrelative:api_to_do_list.infra\\interfaces\\itarefarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61A55721-09BF-4A88-B27D-84763EEF84AA}|API_To_Do_List.Cliente\\API_To_Do_List.Cliente.csproj|c:\\fernando moura\\estudos\\aplicativo teste\\api_to_do_list.cliente\\api_to_do_list.cliente\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{61A55721-09BF-4A88-B27D-84763EEF84AA}|API_To_Do_List.Cliente\\API_To_Do_List.Cliente.csproj|solutionrelative:api_to_do_list.cliente\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96E9DFE5-E770-4C1B-8CE5-63C6E3712315}|API_To_Do_List.Infra\\API_To_Do_List.Infra.csproj|c:\\fernando moura\\estudos\\aplicativo teste\\api_to_do_list.cliente\\api_to_do_list.infra\\interfaces\\irepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96E9DFE5-E770-4C1B-8CE5-63C6E3712315}|API_To_Do_List.Infra\\API_To_Do_List.Infra.csproj|solutionrelative:api_to_do_list.infra\\interfaces\\irepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96E9DFE5-E770-4C1B-8CE5-63C6E3712315}|API_To_Do_List.Infra\\API_To_Do_List.Infra.csproj|c:\\fernando moura\\estudos\\aplicativo teste\\api_to_do_list.cliente\\api_to_do_list.infra\\persistirdados\\contexto\\apicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96E9DFE5-E770-4C1B-8CE5-63C6E3712315}|API_To_Do_List.Infra\\API_To_Do_List.Infra.csproj|solutionrelative:api_to_do_list.infra\\persistirdados\\contexto\\apicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96E9DFE5-E770-4C1B-8CE5-63C6E3712315}|API_To_Do_List.Infra\\API_To_Do_List.Infra.csproj|c:\\fernando moura\\estudos\\aplicativo teste\\api_to_do_list.cliente\\api_to_do_list.infra\\persistirdados\\mapeamento\\tarefamap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96E9DFE5-E770-4C1B-8CE5-63C6E3712315}|API_To_Do_List.Infra\\API_To_Do_List.Infra.csproj|solutionrelative:api_to_do_list.infra\\persistirdados\\mapeamento\\tarefamap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61A55721-09BF-4A88-B27D-84763EEF84AA}|API_To_Do_List.Cliente\\API_To_Do_List.Cliente.csproj|c:\\fernando moura\\estudos\\aplicativo teste\\api_to_do_list.cliente\\api_to_do_list.cliente\\filtrosrequest\\filtrovalidacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61A55721-09BF-4A88-B27D-84763EEF84AA}|API_To_Do_List.Cliente\\API_To_Do_List.Cliente.csproj|solutionrelative:api_to_do_list.cliente\\filtrosrequest\\filtrovalidacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61A55721-09BF-4A88-B27D-84763EEF84AA}|API_To_Do_List.Cliente\\API_To_Do_List.Cliente.csproj|c:\\fernando moura\\estudos\\aplicativo teste\\api_to_do_list.cliente\\api_to_do_list.cliente\\filtrosrequest\\filtroexcecao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61A55721-09BF-4A88-B27D-84763EEF84AA}|API_To_Do_List.Cliente\\API_To_Do_List.Cliente.csproj|solutionrelative:api_to_do_list.cliente\\filtrosrequest\\filtroexcecao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TarefaValidadoTeste.cs",
+              "DocumentMoniker": "C:\\Fernando Moura\\Estudos\\Aplicativo Teste\\API_To_Do_List.Cliente\\API_To_Do_List.Testes\\Cliente\\TarefaValidadoTeste.cs",
+              "RelativeDocumentMoniker": "API_To_Do_List.Testes\\Cliente\\TarefaValidadoTeste.cs",
+              "ToolTip": "C:\\Fernando Moura\\Estudos\\Aplicativo Teste\\API_To_Do_List.Cliente\\API_To_Do_List.Testes\\Cliente\\TarefaValidadoTeste.cs",
+              "RelativeToolTip": "API_To_Do_List.Testes\\Cliente\\TarefaValidadoTeste.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwCoAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T18:40:51.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TarefaServico.cs",
+              "DocumentMoniker": "C:\\Fernando Moura\\Estudos\\Aplicativo Teste\\API_To_Do_List.Cliente\\API_To_Do_List.Service\\Servico\\Repositorio\\TarefaServico.cs",
+              "RelativeDocumentMoniker": "API_To_Do_List.Service\\Servico\\Repositorio\\TarefaServico.cs",
+              "ToolTip": "C:\\Fernando Moura\\Estudos\\Aplicativo Teste\\API_To_Do_List.Cliente\\API_To_Do_List.Service\\Servico\\Repositorio\\TarefaServico.cs",
+              "RelativeToolTip": "API_To_Do_List.Service\\Servico\\Repositorio\\TarefaServico.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAADgvxQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T18:40:09.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ITarefaServico.cs",
+              "DocumentMoniker": "C:\\Fernando Moura\\Estudos\\Aplicativo Teste\\API_To_Do_List.Cliente\\API_To_Do_List.Service\\Servico\\Interfaca\\ITarefaServico.cs",
+              "RelativeDocumentMoniker": "API_To_Do_List.Service\\Servico\\Interfaca\\ITarefaServico.cs",
+              "ToolTip": "C:\\Fernando Moura\\Estudos\\Aplicativo Teste\\API_To_Do_List.Cliente\\API_To_Do_List.Service\\Servico\\Interfaca\\ITarefaServico.cs",
+              "RelativeToolTip": "API_To_Do_List.Service\\Servico\\Interfaca\\ITarefaServico.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T18:39:07.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TarefaRepositorio.cs",
+              "DocumentMoniker": "C:\\Fernando Moura\\Estudos\\Aplicativo Teste\\API_To_Do_List.Cliente\\API_To_Do_List.Infra\\Repositorio\\TarefaRepositorio.cs",
+              "RelativeDocumentMoniker": "API_To_Do_List.Infra\\Repositorio\\TarefaRepositorio.cs",
+              "ToolTip": "C:\\Fernando Moura\\Estudos\\Aplicativo Teste\\API_To_Do_List.Cliente\\API_To_Do_List.Infra\\Repositorio\\TarefaRepositorio.cs",
+              "RelativeToolTip": "API_To_Do_List.Infra\\Repositorio\\TarefaRepositorio.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T18:35:15.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Fernando Moura\\Estudos\\Aplicativo Teste\\API_To_Do_List.Cliente\\API_To_Do_List.Cliente\\Program.cs",
+              "RelativeDocumentMoniker": "API_To_Do_List.Cliente\\Program.cs",
+              "ToolTip": "C:\\Fernando Moura\\Estudos\\Aplicativo Teste\\API_To_Do_List.Cliente\\API_To_Do_List.Cliente\\Program.cs",
+              "RelativeToolTip": "API_To_Do_List.Cliente\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T18:09:02.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TarefaValidador.cs",
+              "DocumentMoniker": "C:\\Fernando Moura\\Estudos\\Aplicativo Teste\\API_To_Do_List.Cliente\\API_To_Do_List.Cliente\\Validadores\\TarefaValidador.cs",
+              "RelativeDocumentMoniker": "API_To_Do_List.Cliente\\Validadores\\TarefaValidador.cs",
+              "ToolTip": "C:\\Fernando Moura\\Estudos\\Aplicativo Teste\\API_To_Do_List.Cliente\\API_To_Do_List.Cliente\\Validadores\\TarefaValidador.cs",
+              "RelativeToolTip": "API_To_Do_List.Cliente\\Validadores\\TarefaValidador.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T18:02:56.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ITarefaRepositorio.cs",
+              "DocumentMoniker": "C:\\Fernando Moura\\Estudos\\Aplicativo Teste\\API_To_Do_List.Cliente\\API_To_Do_List.Infra\\Interfaces\\ITarefaRepositorio.cs",
+              "RelativeDocumentMoniker": "API_To_Do_List.Infra\\Interfaces\\ITarefaRepositorio.cs",
+              "ToolTip": "C:\\Fernando Moura\\Estudos\\Aplicativo Teste\\API_To_Do_List.Cliente\\API_To_Do_List.Infra\\Interfaces\\ITarefaRepositorio.cs",
+              "RelativeToolTip": "API_To_Do_List.Infra\\Interfaces\\ITarefaRepositorio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T18:19:11.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TarefaController.cs",
+              "DocumentMoniker": "C:\\Fernando Moura\\Estudos\\Aplicativo Teste\\API_To_Do_List.Cliente\\API_To_Do_List.Cliente\\Controllers\\TarefaController.cs",
+              "RelativeDocumentMoniker": "API_To_Do_List.Cliente\\Controllers\\TarefaController.cs",
+              "ToolTip": "C:\\Fernando Moura\\Estudos\\Aplicativo Teste\\API_To_Do_List.Cliente\\API_To_Do_List.Cliente\\Controllers\\TarefaController.cs",
+              "RelativeToolTip": "API_To_Do_List.Cliente\\Controllers\\TarefaController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T19:15:23.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StatusTarefa.cs",
+              "DocumentMoniker": "C:\\Fernando Moura\\Estudos\\Aplicativo Teste\\API_To_Do_List.Cliente\\API_To_Do_List.Domain\\Enums\\StatusTarefa.cs",
+              "RelativeDocumentMoniker": "API_To_Do_List.Domain\\Enums\\StatusTarefa.cs",
+              "ToolTip": "C:\\Fernando Moura\\Estudos\\Aplicativo Teste\\API_To_Do_List.Cliente\\API_To_Do_List.Domain\\Enums\\StatusTarefa.cs",
+              "RelativeToolTip": "API_To_Do_List.Domain\\Enums\\StatusTarefa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T17:57:08.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IRepositorio.cs",
+              "DocumentMoniker": "C:\\Fernando Moura\\Estudos\\Aplicativo Teste\\API_To_Do_List.Cliente\\API_To_Do_List.Infra\\Interfaces\\IRepositorio.cs",
+              "RelativeDocumentMoniker": "API_To_Do_List.Infra\\Interfaces\\IRepositorio.cs",
+              "ToolTip": "C:\\Fernando Moura\\Estudos\\Aplicativo Teste\\API_To_Do_List.Cliente\\API_To_Do_List.Infra\\Interfaces\\IRepositorio.cs",
+              "RelativeToolTip": "API_To_Do_List.Infra\\Interfaces\\IRepositorio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T18:18:50.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Fernando Moura\\Estudos\\Aplicativo Teste\\API_To_Do_List.Cliente\\API_To_Do_List.Cliente\\appsettings.json",
+              "RelativeDocumentMoniker": "API_To_Do_List.Cliente\\appsettings.json",
+              "ToolTip": "C:\\Fernando Moura\\Estudos\\Aplicativo Teste\\API_To_Do_List.Cliente\\API_To_Do_List.Cliente\\appsettings.json",
+              "RelativeToolTip": "API_To_Do_List.Cliente\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-28T18:08:22.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApiContext.cs",
+              "DocumentMoniker": "C:\\Fernando Moura\\Estudos\\Aplicativo Teste\\API_To_Do_List.Cliente\\API_To_Do_List.Infra\\PersistirDados\\Contexto\\ApiContext.cs",
+              "RelativeDocumentMoniker": "API_To_Do_List.Infra\\PersistirDados\\Contexto\\ApiContext.cs",
+              "ToolTip": "C:\\Fernando Moura\\Estudos\\Aplicativo Teste\\API_To_Do_List.Cliente\\API_To_Do_List.Infra\\PersistirDados\\Contexto\\ApiContext.cs",
+              "RelativeToolTip": "API_To_Do_List.Infra\\PersistirDados\\Contexto\\ApiContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T18:19:27.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TarefaMap.cs",
+              "DocumentMoniker": "C:\\Fernando Moura\\Estudos\\Aplicativo Teste\\API_To_Do_List.Cliente\\API_To_Do_List.Infra\\PersistirDados\\Mapeamento\\TarefaMap.cs",
+              "RelativeDocumentMoniker": "API_To_Do_List.Infra\\PersistirDados\\Mapeamento\\TarefaMap.cs",
+              "ToolTip": "C:\\Fernando Moura\\Estudos\\Aplicativo Teste\\API_To_Do_List.Cliente\\API_To_Do_List.Infra\\PersistirDados\\Mapeamento\\TarefaMap.cs",
+              "RelativeToolTip": "API_To_Do_List.Infra\\PersistirDados\\Mapeamento\\TarefaMap.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T18:10:19.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FiltroValidacao.cs",
+              "DocumentMoniker": "C:\\Fernando Moura\\Estudos\\Aplicativo Teste\\API_To_Do_List.Cliente\\API_To_Do_List.Cliente\\FiltrosRequest\\FiltroValidacao.cs",
+              "RelativeDocumentMoniker": "API_To_Do_List.Cliente\\FiltrosRequest\\FiltroValidacao.cs",
+              "ToolTip": "C:\\Fernando Moura\\Estudos\\Aplicativo Teste\\API_To_Do_List.Cliente\\API_To_Do_List.Cliente\\FiltrosRequest\\FiltroValidacao.cs",
+              "RelativeToolTip": "API_To_Do_List.Cliente\\FiltrosRequest\\FiltroValidacao.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T18:02:14.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FiltroExcecao.cs",
+              "DocumentMoniker": "C:\\Fernando Moura\\Estudos\\Aplicativo Teste\\API_To_Do_List.Cliente\\API_To_Do_List.Cliente\\FiltrosRequest\\FiltroExcecao.cs",
+              "RelativeDocumentMoniker": "API_To_Do_List.Cliente\\FiltrosRequest\\FiltroExcecao.cs",
+              "ToolTip": "C:\\Fernando Moura\\Estudos\\Aplicativo Teste\\API_To_Do_List.Cliente\\API_To_Do_List.Cliente\\FiltrosRequest\\FiltroExcecao.cs",
+              "RelativeToolTip": "API_To_Do_List.Cliente\\FiltrosRequest\\FiltroExcecao.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T18:01:44.787Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+C:\Fernando Moura\Estudos\Aplicativo Teste\API_To_Do_List.Cliente\API_To_Do_List.Infra\bin\Debug\net6.0\API_To_Do_List.Infra.deps.json
+C:\Fernando Moura\Estudos\Aplicativo Teste\API_To_Do_List.Cliente\API_To_Do_List.Infra\bin\Debug\net6.0\API_To_Do_List.Infra.runtimeconfig.json
+C:\Fernando Moura\Estudos\Aplicativo Teste\API_To_Do_List.Cliente\API_To_Do_List.Infra\bin\Debug\net6.0\API_To_Do_List.Infra.dll
+C:\Fernando Moura\Estudos\Aplicativo Teste\API_To_Do_List.Cliente\API_To_Do_List.Infra\bin\Debug\net6.0\API_To_Do_List.Infra.pdb
+C:\Fernando Moura\Estudos\Aplicativo Teste\API_To_Do_List.Cliente\API_To_Do_List.Infra\bin\Debug\net6.0\API_To_Do_List.Domain.dll
+C:\Fernando Moura\Estudos\Aplicativo Teste\API_To_Do_List.Cliente\API_To_Do_List.Infra\bin\Debug\net6.0\API_To_Do_List.Domain.pdb
+C:\Fernando Moura\Estudos\Aplicativo Teste\API_To_Do_List.Cliente\API_To_Do_List.Infra\obj\Debug\net6.0\API_To_Do_List.Infra.csproj.AssemblyReference.cache
+C:\Fernando Moura\Estudos\Aplicativo Teste\API_To_Do_List.Cliente\API_To_Do_List.Infra\obj\Debug\net6.0\API_To_Do_List.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Fernando Moura\Estudos\Aplicativo Teste\API_To_Do_List.Cliente\API_To_Do_List.Infra\obj\Debug\net6.0\API_To_Do_List.Infra.AssemblyInfoInputs.cache
+C:\Fernando Moura\Estudos\Aplicativo Teste\API_To_Do_List.Cliente\API_To_Do_List.Infra\obj\Debug\net6.0\API_To_Do_List.Infra.AssemblyInfo.cs
+C:\Fernando Moura\Estudos\Aplicativo Teste\API_To_Do_List.Cliente\API_To_Do_List.Infra\obj\Debug\net6.0\API_To_Do_List.Infra.csproj.CoreCompileInputs.cache
+C:\Fernando Moura\Estudos\Aplicativo Teste\API_To_Do_List.Cliente\API_To_Do_List.Infra\obj\Debug\net6.0\API_To_D.666C798A.Up2Date
+C:\Fernando Moura\Estudos\Aplicativo Teste\API_To_Do_List.Cliente\API_To_Do_List.Infra\obj\Debug\net6.0\API_To_Do_List.Infra.dll
+C:\Fernando Moura\Estudos\Aplicativo Teste\API_To_Do_List.Cliente\API_To_Do_List.Infra\obj\Debug\net6.0\refint\API_To_Do_List.Infra.dll
+C:\Fernando Moura\Estudos\Aplicativo Teste\API_To_Do_List.Cliente\API_To_Do_List.Infra\obj\Debug\net6.0\API_To_Do_List.Infra.pdb
+C:\Fernando Moura\Estudos\Aplicativo Teste\API_To_Do_List.Cliente\API_To_Do_List.Infra\obj\Debug\net6.0\API_To_Do_List.Infra.genruntimeconfig.cache
+C:\Fernando Moura\Estudos\Aplicativo Teste\API_To_Do_List.Cliente\API_To_Do_List.Infra\obj\Debug\net6.0\ref\API_To_Do_List.Infra.dll

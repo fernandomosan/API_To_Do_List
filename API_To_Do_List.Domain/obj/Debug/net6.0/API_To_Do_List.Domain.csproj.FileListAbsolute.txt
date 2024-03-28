@@ -1,0 +1,11 @@
+C:\Fernando Moura\Estudos\Aplicativo Teste\API_To_Do_List.Cliente\API_To_Do_List.Domain\bin\Debug\net6.0\API_To_Do_List.Domain.deps.json
+C:\Fernando Moura\Estudos\Aplicativo Teste\API_To_Do_List.Cliente\API_To_Do_List.Domain\bin\Debug\net6.0\API_To_Do_List.Domain.dll
+C:\Fernando Moura\Estudos\Aplicativo Teste\API_To_Do_List.Cliente\API_To_Do_List.Domain\bin\Debug\net6.0\API_To_Do_List.Domain.pdb
+C:\Fernando Moura\Estudos\Aplicativo Teste\API_To_Do_List.Cliente\API_To_Do_List.Domain\obj\Debug\net6.0\API_To_Do_List.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Fernando Moura\Estudos\Aplicativo Teste\API_To_Do_List.Cliente\API_To_Do_List.Domain\obj\Debug\net6.0\API_To_Do_List.Domain.AssemblyInfoInputs.cache
+C:\Fernando Moura\Estudos\Aplicativo Teste\API_To_Do_List.Cliente\API_To_Do_List.Domain\obj\Debug\net6.0\API_To_Do_List.Domain.AssemblyInfo.cs
+C:\Fernando Moura\Estudos\Aplicativo Teste\API_To_Do_List.Cliente\API_To_Do_List.Domain\obj\Debug\net6.0\API_To_Do_List.Domain.csproj.CoreCompileInputs.cache
+C:\Fernando Moura\Estudos\Aplicativo Teste\API_To_Do_List.Cliente\API_To_Do_List.Domain\obj\Debug\net6.0\API_To_Do_List.Domain.dll
+C:\Fernando Moura\Estudos\Aplicativo Teste\API_To_Do_List.Cliente\API_To_Do_List.Domain\obj\Debug\net6.0\refint\API_To_Do_List.Domain.dll
+C:\Fernando Moura\Estudos\Aplicativo Teste\API_To_Do_List.Cliente\API_To_Do_List.Domain\obj\Debug\net6.0\API_To_Do_List.Domain.pdb
+C:\Fernando Moura\Estudos\Aplicativo Teste\API_To_Do_List.Cliente\API_To_Do_List.Domain\obj\Debug\net6.0\ref\API_To_Do_List.Domain.dll

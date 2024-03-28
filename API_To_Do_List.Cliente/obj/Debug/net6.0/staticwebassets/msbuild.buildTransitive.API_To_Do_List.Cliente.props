@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\API_To_Do_List.Cliente.props" />
+</Project>
